@@ -1,2 +1,4 @@
 # computing_club_p2
-With the club
+
+
+We are the students attending the computing club session/workshop/event!
